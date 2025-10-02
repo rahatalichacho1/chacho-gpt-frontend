@@ -16,7 +16,7 @@
   let currentModelUsed = "";
   let showModelSelector = false;
   
-  const BACKEND_URL = "http://localhost:8000";
+  const BACKEND_URL = "https://free-gpt-l3cz.onrender.com";
 
   onMount(async () => {
     // Welcome message animation
